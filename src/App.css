@@ -36,3 +36,100 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+
+.h1todo{
+
+  width: 500px;
+  height: 40px;
+  background-color: rgb(11, 130, 90);
+  color: white;
+  margin-left: 700px;
+
+ }
+
+
+
+ .input-main{
+
+  
+ width: 250px;
+ height: 30px;
+ margin-top: 50px;
+ outline: none;
+ border: 1px solid rgb(197, 197, 197);
+
+
+ }
+
+
+ .addbtn{
+
+  margin-left: 20px;
+  width: 60px;
+  height: 30px;
+  background-color: yellowgreen;
+  border: 1px solid rgb(197, 197, 197);
+
+ }
+
+
+ .todolist{
+
+  width: 250px;
+  height: 40px;
+  background-color: yellowgreen;
+  margin-left: 795px;
+  display: flex;
+  margin-top: 20px;
+
+ }
+
+
+ .editbtn{
+ 
+  margin-left: 107px;
+  width: 90px;
+  height: 38px;
+  border: 1px solid rgb(197, 197, 197);
+  background-color: rgb(46, 161, 11);
+  color: white;
+
+ }
+
+
+ .delete{
+ 
+ 
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  margin-left: 4px;
+  border: 1px solid rgb(197, 197, 197);
+  background-color: rgb(11, 141, 26);
+  color: white;
+
+ }
+
+
+ .todotext{
+
+  margin-top: -3px;
+  margin-left: 5px;
+
+ }
+
+
+ .inputnew{
+ 
+  width: 250px;
+  height: 40px;
+
+
+ }
